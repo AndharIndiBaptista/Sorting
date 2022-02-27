@@ -1,2 +1,2 @@
-# Sorting
-ASD-Sorting
+# ASD-Sorting-Challenge
+Tugas Sorting dan challenge
